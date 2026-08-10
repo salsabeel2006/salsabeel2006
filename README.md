@@ -11,10 +11,10 @@
 
 - 🎓 Bachelor of Computer Science student (2025 – 2028) at **University of Wollongong in Dubai (UOWD)**
 - 📍 Based in Abu Dhabi, UAE
-- 💻 Comfortable across the stack — from client-side UI to backend data handling and debugging
-- 🌱 Currently deepening my C++ / OOP fundamentals: polymorphism, inheritance, templates, smart pointers
+- 💻 Comfortable working across the stack — from frontend development and client-side interactivity to backend data handling, databases, and debugging
+- 🛠️ Experienced with C++, Python, JavaScript, SQL, Node.js, MySQL, and modern web technologies
 - 🗣️ English (Fluent) · Arabic (Fluent) · Spanish (Beginner)
-- ⚡ Fun fact: I built my own Pomodoro-timer study planner to survive my own coursework deadlines
+
 
 ---
 
@@ -36,14 +36,24 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🍽️ **[Sunset Grill Café](#)** | Full multi-page restaurant web app with a shopping cart, table reservations, and login/contact forms. Integrated AJAX/JSON for dynamic content and XML/XSLT for structured menu data. | `HTML` `CSS` `JavaScript` `AJAX` `JSON` `XML/XSLT` |
-| 🌐 **Secure Network Design — ElectroMart Group** | Designed a secure, scalable network architecture for a retail headquarters as part of a two-person team, applying networking fundamentals and security principles. | `Networking` `Security Design` |
-| 🗄️ **Node.js + MySQL Backend Lab** | Built and debugged a Node.js app connecting to a MySQL database, resolving package compatibility issues, auth mismatches, and connection-hang errors. | `Node.js` `MySQL` |
-| ⏱️ **Study Planner Web App** | Personal project featuring a Pomodoro timer, deadline countdowns, and per-subject progress tracking, pre-loaded with real coursework deadlines. | `HTML` `CSS` `JavaScript` |
-| 📊 **Student Database Management System** | Designed and implemented a relational database using SQL, with queries for data retrieval, filtering, and management. | `SQL` `Database Design` |
-| 🐍 **Python Application Development** | Structured, object-oriented Python applications with input validation and modular design. | `Python` `OOP` |
+| "Project Title" | "Project Description" | `HTML` `CSS` `JavaScript` `AJAX` `JSON` `XML/XSLT` |
+| "Project Title" | "Project Description" | `Networking` `Security Design` |
+| "Project Title" | "Project Description" | `Node.js` `MySQL` |
 
 ---
+
+## 🎓 Education
+### Bachelor of Computer Science
+**2025–2028 · University of Wollongong in Dubai (UOWD)** · Dubai, UAE
+
+**Relevant coursework:**
+- Advanced Programming
+- Object-Oriented Design & Programming
+- Database Management
+- Web Technology
+- Networks & Communications
+- System Analysis
+- Cybersecurity Fundamentals 
 
 ### 🏫 Beyond Code
 
@@ -52,13 +62,18 @@
 
 ---
 
+## 🌐 Portfolio
+
+💻 **[Visit My Portfolio](YOUR-PORTFOLIO-LINK-HERE)**
+
+
 ### 📫 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/salsabeelalshayeb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:salsabeelsamra@gmail.com">
+  <a href="mailto:salsabeelsamira@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
