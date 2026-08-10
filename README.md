@@ -78,6 +78,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salsabeelalshayeb&label=Profile%20views&color=2E75B6&style=flat" alt="profile views" />
-</p>
