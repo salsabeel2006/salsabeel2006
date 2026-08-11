@@ -64,7 +64,7 @@
 
 ## 🌐 Portfolio
 
-💻 **[Visit My Portfolio](https://salsabeel-portfolio.vercel.app/)**
+💻 **[Visit My Portfolio](https://salsabeel-portfolio.vercel.app)**
 
 ### 📫 Let's Connect
 
