@@ -36,8 +36,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[FocusFlow]** | A responsive student productivity dashboard for organizing assignments, monitoring deadlines, setting priorities, and tracking academic progress. | `HTML` `CSS` `JavaScript` `Local Storage` |
-| **[Velvet & Bloom Café]** | A responsive café website featuring a digital menu, café information, opening hours, location details, and an elegant pastel-themed interface. | `HTML` `CSS` `JavaScript` |
+| **FocusFlow** | A responsive student productivity dashboard for organizing assignments, monitoring deadlines, setting priorities, and tracking academic progress. | `HTML` `CSS` `JavaScript` `Local Storage` |
+| **Velvet & Bloom Café** | A responsive café website featuring a digital menu, café information, opening hours, location details, and an elegant pastel-themed interface. | `HTML` `CSS` `JavaScript` |
 | "Project Title" | "Project Description" | `Node.js` `MySQL` |
 
 ---
