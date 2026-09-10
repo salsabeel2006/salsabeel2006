@@ -38,7 +38,7 @@
 |---|---|---|
 | **FocusFlow** | A responsive student productivity dashboard for organizing assignments, monitoring deadlines, setting priorities, and tracking academic progress. | `HTML` `CSS` `JavaScript` `Local Storage` |
 | **Velvet & Bloom Café** | A responsive café website featuring a digital menu, café information, opening hours, location details, and an elegant pastel-themed interface. | `HTML` `CSS` `JavaScript` |
-| "Project Title" | "Project Description" | `Node.js` `MySQL` |
+| **VERENNE Private Automobiles** | A multilingual luxury car rental website featuring dynamic vehicle listings, advanced filtering, favourites, vehicle comparisons, UAE branch maps, location-based availability, and rental enquiries. | `HTML` `CSS` `JavaScript` `Local Storage` `Google Maps Embed` |
 
 ---
 
